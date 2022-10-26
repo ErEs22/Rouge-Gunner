@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6506f63f27b22304598f24f057db380a, type: 3}
+  m_Name: RoomSOStock
+  m_EditorClassIdentifier: 
+  roomSOList:
+  - {fileID: 11400000, guid: 1c59840d293b0bc4b9dea6854e94601f, type: 2}
+  - {fileID: 11400000, guid: 2ac0ece5aafae1d42ac9fe68d08c4ea2, type: 2}
+  - {fileID: 11400000, guid: 20dd4ad92a43e3d43aeb8daf19f276ad, type: 2}
+  - {fileID: 11400000, guid: e83f40a5b24211040ac159aa468acd6c, type: 2}
+  AngelRoom: {fileID: 11400000, guid: 77ec2d800cacf924eb28ce27c18b71bf, type: 2}
+  DevilRoom: {fileID: 11400000, guid: 0fa953223c3dea3439465354230a6903, type: 2}
